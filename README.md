@@ -1,5 +1,10 @@
 # flower-photo-classification
 
+### Data Set
+https://pan.baidu.com/s/1jIMOc1S
+
+
+### Model
 [Inception v3](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/slim/python/slim/nets/inception_v3.py)
 
 model:http://download.tensorflow.org/models/image/imagenet/inception-2015-12-05.tgz
